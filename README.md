@@ -1,4 +1,4 @@
-# 20-beginner-level-C-problem-to-solve-and-practise
+# 20 beginner level C problem to solve and practise
 
 #20 beginner level problem given below to solve and practise:
 Use any language you want. My solutions are given in only C laguage.
