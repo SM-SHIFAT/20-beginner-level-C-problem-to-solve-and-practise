@@ -3,8 +3,8 @@
 #20 beginner level problem given below to solve and practise:
 Use any language you want. My solutions are given in only C laguage.
 
-1. Differentiate between C and C++. Write a C program to print "Hello World!!!." 
-2. Describe recursion. Write a C program to reverse a number using recursion. 
+1. Write a C program to print "Hello World!!!." 
+2. Write a C program to reverse a number using recursion. 
 3. Write a C program to print the Fibonacci series up to 100 terms. 
 4. Write a C program to print the factorial of a given number. 
 5. Write a C program to print the prime numbers among a given range. 
